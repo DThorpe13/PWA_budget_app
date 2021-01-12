@@ -10,7 +10,7 @@ SO THAT my account balance is accurate when I am traveling
 
 
 ## Homepage
-![Homepage]()
+![Homepage](https://github.com/DThorpe13/PWA_budget_app/blob/master/public/icons/home%20page.png)
 
 ## Business Context
 
